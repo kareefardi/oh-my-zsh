@@ -10,3 +10,9 @@
 	path = custom/plugins/forgit
 	url = https://github.com/wfxr/forgit
 	branch = master
+[submodule "custom/plugins/zsh-z"]
+	path = custom/plugins/zsh-z
+	url = https://github.com/agkozak/zsh-z
+[submodule "custom/themes/powerlevel10k"]
+	path = custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
