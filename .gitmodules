@@ -19,3 +19,9 @@
 [submodule "custom/plugins/fzf-tab"]
 	path = custom/plugins/fzf-tab
 	url = https://github.com/Aloxaf/fzf-tab
+[submodule "custom/plugins/fzf-tab-completion"]
+	path = custom/plugins/fzf-tab-completion
+	url = git@github.com:lincheney/fzf-tab-completion.git
+[submodule "custom/plugins/zsh-vi-mode"]
+	path = custom/plugins/zsh-vi-mode
+	url = git@github.com:jeffreytse/zsh-vi-mode.git
