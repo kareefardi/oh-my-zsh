@@ -1,0 +1,27 @@
+[submodule "custom/plugins/zsh-autosuggestions"]
+	path = custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+	branch = master
+[submodule "custom/plugins/zsh-syntax-highlighting"]
+	path = custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
+	branch = master
+[submodule "custom/plugins/forgit"]
+	path = custom/plugins/forgit
+	url = https://github.com/wfxr/forgit
+	branch = master
+[submodule "custom/plugins/zsh-z"]
+	path = custom/plugins/zsh-z
+	url = https://github.com/agkozak/zsh-z
+[submodule "custom/themes/powerlevel10k"]
+	path = custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
+[submodule "custom/plugins/fzf-tab"]
+	path = custom/plugins/fzf-tab
+	url = https://github.com/Aloxaf/fzf-tab
+[submodule "custom/plugins/fzf-tab-completion"]
+	path = custom/plugins/fzf-tab-completion
+	url = git@github.com:lincheney/fzf-tab-completion.git
+[submodule "custom/plugins/zsh-vi-mode"]
+	path = custom/plugins/zsh-vi-mode
+	url = git@github.com:jeffreytse/zsh-vi-mode.git
